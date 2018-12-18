@@ -1,4 +1,4 @@
-# Zabbix Review and Export
+# Zabbix Review and Export, origin:  (https://habr.com/company/pt/blog/433126/)
 With Zabbix review and export (backup) you can create review mechanism and save zabbix configuration as code (Monitoring as Code)
 
 You can only export (backup) all hosts templates and other object with `zabbix-export.py` script.
